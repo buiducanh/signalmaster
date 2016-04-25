@@ -19,8 +19,8 @@
   ],
   "turnservers": [
     {
-      "urls": ["turn:your.turn.servers.here"],
-      "secret": "turnserversharedsecret",
+      "urls": ["turn:numb.viagenie.ca"],
+      "secret": "",
       "expiry": 86400
     }
   ]
